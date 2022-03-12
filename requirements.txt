@@ -1,4 +1,4 @@
-Pillow==6.2.0
+Pillow==9.0.1
 imutils==0.5.3
 numpy==1.17.2
 wget==3.2
